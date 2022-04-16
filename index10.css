@@ -1,0 +1,24 @@
+.answer {
+    color: red;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.link {
+    color: purple;
+    text-decoration-line: none;
+    font-weight: 500;
+}
+
+.td {
+    width: 30%;
+    text-align: center;
+}
+
+.h1 {
+    color: whitesmoke;
+}
+
+.background {
+    background-image: url(https://cdn.wallpapersafari.com/89/63/PF82ho.jpg);
+}

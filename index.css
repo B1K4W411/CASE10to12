@@ -1,0 +1,94 @@
+/* BODY */
+
+.body {
+    background-image: url(https://i.pinimg.com/originals/f1/8b/24/f18b247e41c43fcebe207c92ef28590e.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+/* Table */
+
+.picture {
+    width: 64px;
+    height: 64px;
+}
+
+
+/* ROW ONE */
+
+.a1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+}
+
+.a2 {
+    background-color: #000033;
+    color: #FFFFCC;
+    font-size: large;
+}
+
+
+/* ROW TWO */
+
+.b1 {
+    background-color: #003300;
+    color: #FFCCFF;
+    font-size: large;
+}
+
+.b2 {
+    background-color: #003333;
+    color: #FFCCCC;
+    font-size: large;
+}
+
+
+/* ROW THREE */
+
+.c1 {
+    background-color: #006600;
+    color: #FF99FF;
+    font-size: large;
+}
+
+.c2 {
+    background-color: #009900;
+    color: #ff66ff;
+    font-size: large;
+}
+
+
+/* ROW FOUR */
+
+.d1 {
+    background-color: #ff33ff;
+    color: #00CC00;
+    font-size: large;
+}
+
+.d2 {
+    background-color: #ff00ff;
+    color: #00FF00;
+    font-size: large;
+}
+
+
+/* FOOTER */
+
+.link {
+    text-decoration: none;
+    color: #ffd700;
+    font-weight: 900;
+}
+
+.footer {
+    color: white
+}
+
+.footer-design {
+    position: absolute;
+    bottom: 0%;
+}
